@@ -1,0 +1,14 @@
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="50dp">
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:id="@+id/cancelButton"
+        android:background="@drawable/cancel_right"
+        android:textSize="40sp"
+        android:text="X"/>
+
+</LinearLayout>

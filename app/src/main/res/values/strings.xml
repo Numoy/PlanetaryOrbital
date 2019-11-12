@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">PlanetaryOrbital</string>
+    <string name="action_settings">Settings</string>
+
+    <!--Shared Preferences -->
+    <string name="prefences">settings</string>
+
+    <string name="highscore">highscore</string>
+
+    <string name="default_rocket_drawable">R.drawable.spaceship1_vector</string>
+    <string name="rocket_drawable">rocket_drawable</string>
+
+    <string name="default_energy_drawable">R.drawable.energy_vector</string>
+    <string name="energy_drawable">energy_drawable</string>
+
+    <string name="sound">sound</string>
+    <string name="money">money</string>
+    <string name="firsttime">firsttime</string>
+
+    <string name="control">control</string>
+</resources>

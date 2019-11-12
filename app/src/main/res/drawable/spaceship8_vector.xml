@@ -1,0 +1,54 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+        android:width="38dp"
+        android:height="548dp"
+        android:viewportWidth="38.08"
+        android:viewportHeight="548.0">
+    <path
+        android:pathData="M20,0.5c-11.75,15 -19.78,31.18 -20,50v74l5,11h15Z"
+        android:fillColor="#d0d0d0"/>
+    <path
+        android:pathData="M4,135.5h16v42h-16z"
+        android:fillColor="#fdfef2"/>
+    <path
+        android:pathData="M4,177.5h16v55h-16z"
+        android:fillColor="#483f4e"/>
+    <path
+        android:pathData="M4,232.5h16v243h-16z"
+        android:fillColor="#e9ebea"/>
+    <path
+        android:pathData="M4,513.5l6,0l10,0l0,-38l-16,0l0,38z"
+        android:fillColor="#4b4b4b"/>
+    <path
+        android:pathData="M10,513.5h6v7.5h-6z"
+        android:fillColor="#bbb3ab"/>
+    <path
+        android:pathData="M17,1.5c11.75,15 19.78,31.18 20,50v74l-5,11h-15Z"
+        android:fillColor="#d0d0d0"/>
+    <path
+        android:pathData="M16.5,136h16v42h-16z"
+        android:fillColor="#fdfef2"/>
+    <path
+        android:pathData="M16.5,178h16v55h-16z"
+        android:fillColor="#483f4e"/>
+    <path
+        android:pathData="M16.5,233h16v243h-16z"
+        android:fillColor="#e9ebea"/>
+    <path
+        android:pathData="M32.5,514l-6,0l-10,0l0,-38l16,0l0,38z"
+        android:fillColor="#4b4b4b"/>
+    <path
+        android:pathData="M20.5,514h6v7h-6z"
+        android:fillColor="#bbb3ab"/>
+    <path
+        android:pathData="M10.5,256l16,0l0,13l-16,0l0,-6.5l0,-6.5z"
+        android:fillColor="#e97c9e"/>
+    <path
+        android:pathData="M18.5,262.5l0,-6.5l-8,0l0,6l8,0.5z"
+        android:fillColor="#305c65"/>
+    <path
+        android:pathData="M20.5,0l6,31 0.5,104.5c9.42,3.16 11.5,5.5 10.5,-9.5L37.5,42.66C40.96,31.32 28.2,13.08 20.5,0Z"
+        android:fillColor="#e2dbd5"/>
+    <path
+        android:pathData="M0.69,41.68 L37.5,43c1.5,-12.44 -5.91,-27.23 -17,-43C8.97,14.59 2.3,28.49 0.69,41.68Z"
+        android:fillColor="#e2dbd5"/>
+</vector>

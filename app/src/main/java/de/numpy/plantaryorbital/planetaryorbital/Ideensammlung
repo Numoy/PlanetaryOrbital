@@ -1,0 +1,33 @@
+Probleme:
+- Sound
+- Menu
+- "spannenderes" Gameplay
+- zu langsam
+- "hackelig" ?
+
+ToDO:
+- Indikatoren für Planeten außerhalb vom Bildschirm
+
+Ideen:
+- Gameplay Problem Lösung 1 (einfach):
+    - konstant Energie verlieren -> belohnt schnelleres Fliegen (nah an Planeten)
+
+- Gameplay Problem Lösung 2 (aufwendig):
+    - Meteroiten/Satelieten (bei kollision Schaden/Tod)
+    - Schild, verhindert Tod
+    - nach Verzögerung läd Schild auf -> verbraucht Energie
+    - Radioaktive Planeten/Sonnen die konstant Schaden machen
+
+    Später:
+        - Powerups: Permanent (Progression) oder Sammelbar für Run (Abwechslungsreicher)
+          Beispiel: - Abwehr Raketen ( Zerstört nahe Meteorieten/Satellieten alle x Sekunden )
+                    - SolarPanel: in der nähe von Sonnen Energieaufladen
+                    - Triebwerk Boost
+                    - X Sekunden Schild Boost
+
+Versionen Umsetzung Leben/Schild:
+- Mit/Ohne Leben -> ohne Schild Sofort Gameover oder HP verlust
+- Schild läd auf / benötigt Energie / mit Button Energie zu Schild ( mit CD )
+- Solange Schild an -> Verliert Energie statt Leben
+- Leben und Schild Kontinuierlich( Bar ) oder Ganzhalig ( zB 5/5 )
+- HP oder Schildgröße durch Upgrade permanent erhöhbar oder Konstant
